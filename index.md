@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Baby Use Pacifier Posture Record
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/BabyUsePacifierPostureRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Babies in every family often encounter the use of pacifiers. When the baby uses the pacifier incorrectly, it can easily cause a series of problems that affect the baby's development and physical health. For example, when a baby is using a pacifier, he likes to sleep on his stomach, which causes the baby to breathe less smoothly. We, as parents, should be more careful to protect our babies. We can record some of the babies pacifiers wrong postures and information, such as babies pacifiers model, time, posture, and feelings. In this way, we can better help the baby use the pacifier posture correctly, and help the baby grow up healthy.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: jichungan9498@163.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/BabyUsePacifierPostureRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
